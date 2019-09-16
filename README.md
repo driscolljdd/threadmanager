@@ -1,6 +1,6 @@
 # Process Management Library
 
-This library extends an [errgroup](https://golang.org/x/sync/errgroup) to provide a very easy way to control a group of processes.
+This library extends an [errgroup](https://godoc.org/golang.org/x/sync/errgroup) to provide a very easy way to control a group of processes.
 The library greatly simplifies the process of advanced process management.
 
 ## Features
